@@ -1,7 +1,5 @@
 FROM debian:stretch-slim
 
-MAINTAINER kjake
-
 ENV PERSISTENT_RUNTIME_DEPS \
     libwrap0 \
     libcrack2 \
